@@ -1,4 +1,4 @@
-# mlp-project
+# IITM-MLP-Project
 CrimeCast: Forecasting Crime Categories MLP Project
 
 # Overview
