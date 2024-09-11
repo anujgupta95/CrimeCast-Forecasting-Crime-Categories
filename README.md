@@ -18,4 +18,6 @@ Your goal is to use this data to predict the type of crime that occurred.
 
 # Evaluation
 Submissions are evaluated on accuracy Score
+
+# Kaggle Competition Link
 [Kaggle Competition Link](https://www.kaggle.com/competitions/crime-cast-forecasting-crime-categories)
